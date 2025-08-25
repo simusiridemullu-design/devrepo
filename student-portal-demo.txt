@@ -1,3 +1,17 @@
-S.Demullu
-cs-c
-how to insert file in github
+<html>
+    <head>
+        <title>hackthon</title>
+         <style>
+        body{background-color: blue;
+text-align: 10px;
+        }
+        h1{
+            text-align: center;
+        }
+         </style>
+    </head>
+    <body>
+        <h1>Github project</h1>
+<p>insert files</p>
+    </body>
+</html>
